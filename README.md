@@ -5,7 +5,7 @@ A personal portfolio website deployed on AWS to demonstrate cloud hosting and de
 
 ## Live Website
 
-https://d2oyz6chejt13.cloudfront.net
+https://d2oyz6chetjt13.cloudfront.net/
 
 ## Technologies Used
 
